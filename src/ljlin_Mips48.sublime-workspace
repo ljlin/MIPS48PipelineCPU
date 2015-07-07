@@ -1,0 +1,1193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dm",
+				"dm_read"
+			],
+			[
+				"by",
+				"BYTE2"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"op",
+				"op"
+			],
+			[
+				"rd1",
+				"rd1"
+			],
+			[
+				"IR",
+				"IR"
+			],
+			[
+				"ifi",
+				"IF_ID_We"
+			],
+			[
+				"st",
+				"stall"
+			],
+			[
+				"cal",
+				"cal_r"
+			],
+			[
+				"re",
+				"RTE"
+			],
+			[
+				"rt",
+				"rt"
+			],
+			[
+				"ir",
+				"IR_M"
+			],
+			[
+				"s",
+				"stall"
+			],
+			[
+				"sta",
+				"stall_ld"
+			],
+			[
+				"stall_",
+				"stall_b_zero"
+			],
+			[
+				"cla",
+				"cal_r_withSA"
+			],
+			[
+				"ja",
+				"JALR"
+			],
+			[
+				"j",
+				"J"
+			],
+			[
+				"bz",
+				"b_type_zero"
+			],
+			[
+				"mF",
+				"MFLO"
+			],
+			[
+				"PC4_",
+				"PC4_D"
+			],
+			[
+				"pC",
+				"PC4"
+			],
+			[
+				"Q",
+				"Q"
+			],
+			[
+				"RF",
+				"RFWe"
+			],
+			[
+				"ld",
+				"ld"
+			],
+			[
+				"ju",
+				"jumplink"
+			],
+			[
+				"MUX",
+				"MUXA"
+			],
+			[
+				"BY",
+				"BYTEEXT"
+			],
+			[
+				"HA",
+				"HALFEXT"
+			],
+			[
+				"in",
+				"in_0"
+			],
+			[
+				"Ha",
+				"HALF"
+			],
+			[
+				"By",
+				"BYTE"
+			],
+			[
+				"as",
+				"assign	assign"
+			],
+			[
+				"LDE",
+				"LDEXTU"
+			],
+			[
+				"LD",
+				"LDEXTBE"
+			],
+			[
+				"LDEX",
+				"LDEXTBE"
+			],
+			[
+				"LO",
+				"LOHALF"
+			],
+			[
+				"HI",
+				"HIHALF"
+			],
+			[
+				"be",
+				"BE"
+			],
+			[
+				"ALUS",
+				"ALUBSel"
+			],
+			[
+				"EX",
+				"EXCTRL"
+			],
+			[
+				"MUL",
+				"MULOp"
+			],
+			[
+				"DR",
+				"DR_W"
+			],
+			[
+				"PC4",
+				"PC4_D"
+			],
+			[
+				"MU",
+				"MUX3"
+			],
+			[
+				"ALUB",
+				"ALUBMUX"
+			],
+			[
+				"mux",
+				"MUX"
+			],
+			[
+				"EXT",
+				"EXTOp"
+			],
+			[
+				"c",
+				"Clk"
+			],
+			[
+				"WD",
+				"WDMUX"
+			],
+			[
+				"out",
+				"out"
+			],
+			[
+				"pc",
+				"pc"
+			],
+			[
+				"zer",
+				"zero_extend"
+			],
+			[
+				"sign",
+				"sign_extend"
+			],
+			[
+				"si",
+				"sign_in"
+			],
+			[
+				"rs",
+				"rst"
+			],
+			[
+				"rd2",
+				"rd2_raw"
+			],
+			[
+				"plu",
+				"PlusOut_ID"
+			],
+			[
+				"pc_",
+				"pc_ID"
+			],
+			[
+				"Bra",
+				"Branch_EX"
+			],
+			[
+				"read",
+				"readrf2"
+			],
+			[
+				"ze",
+				"zero_MEM"
+			],
+			[
+				"if",
+				"IF_Flush"
+			],
+			[
+				"im",
+				"im_IF"
+			],
+			[
+				"WB",
+				"WB_ID"
+			],
+			[
+				"con",
+				"control_mux_out"
+			],
+			[
+				"mem",
+				"MemRead"
+			],
+			[
+				"ALUin",
+				"ALUin_0"
+			],
+			[
+				"ALU",
+				"ALUin_1"
+			],
+			[
+				"forwa",
+				"ForwardA"
+			],
+			[
+				"For",
+				"ForwardB"
+			],
+			[
+				"regaddr",
+				"regAddr_WB"
+			],
+			[
+				"regwri",
+				"RegWrite_WB"
+			],
+			[
+				"memto",
+				"MemtoReg_WB"
+			],
+			[
+				"regw",
+				"RegWrite_WB"
+			],
+			[
+				"memtore",
+				"MemtoReg_EX"
+			],
+			[
+				"regwr",
+				"RegWrite_out"
+			],
+			[
+				"me",
+				"MemtoReg"
+			],
+			[
+				"memt",
+				"MemtoReg_out"
+			],
+			[
+				"for",
+				"forwardA"
+			],
+			[
+				"pc_mu",
+				"pc_mux_out"
+			],
+			[
+				"rst",
+				"rst"
+			],
+			[
+				"al",
+				"always	always"
+			],
+			[
+				"ps",
+				"PCSrc"
+			],
+			[
+				"rd2_",
+				"rd2_MEM"
+			],
+			[
+				"extou",
+				"extout_EX"
+			],
+			[
+				"ex_",
+				"EX_MEM"
+			],
+			[
+				"W",
+				"WB_MEM"
+			],
+			[
+				"w",
+				"wire"
+			],
+			[
+				"dou",
+				"dout_WB"
+			],
+			[
+				"wri",
+				"writeRegAddr_MEM"
+			],
+			[
+				"writ",
+				"writeRegAddr_MEM"
+			],
+			[
+				"WB_",
+				"WB_EX"
+			],
+			[
+				"writereg",
+				"writeRegAddr"
+			],
+			[
+				"rd",
+				"rd_EX"
+			],
+			[
+				"ext",
+				"extout_EX"
+			],
+			[
+				"rea",
+				"readrf2"
+			],
+			[
+				"rad",
+				"readrf1"
+			],
+			[
+				"outp",
+				"output"
+			],
+			[
+				"aluout",
+				"ALUOut"
+			],
+			[
+				"alu",
+				"ALUOp"
+			],
+			[
+				"ex",
+				"EX_out_2"
+			],
+			[
+				"Ex",
+				"EX"
+			],
+			[
+				"int",
+				"initial"
+			],
+			[
+				"ins",
+				"instr_in"
+			],
+			[
+				"inst",
+				"instr_in"
+			],
+			[
+				"jum",
+				"jumpAddr"
+			],
+			[
+				"reg",
+				"RegDst"
+			],
+			[
+				"red",
+				"readrf2"
+			],
+			[
+				"wi",
+				"writeMem"
+			],
+			[
+				"mo",
+				"mux0Out"
+			],
+			[
+				"mux0",
+				"mux0Out"
+			],
+			[
+				"addr",
+				"Addr"
+			],
+			[
+				"cou",
+				"counter_test"
+			],
+			[
+				"fo",
+				"forv	Vector For Loop"
+			],
+			[
+				"max",
+				"MAX_K"
+			],
+			[
+				"ac",
+				"ACCount"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ma",
+				"MAX_K"
+			],
+			[
+				"de",
+				"deleta"
+			],
+			[
+				"sum",
+				"sumE"
+			],
+			[
+				"su",
+				"sumE"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"res",
+				"res2"
+			],
+			[
+				"cas",
+				"CaseNum"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"sp",
+				"splay"
+			],
+			[
+				"val",
+				"value"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DECODE.v",
+			"settings":
+			{
+				"buffer_size": 3259,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ljlin_Mips48.sublime-project",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/iverilog.sublime-build",
+	"command_palette":
+	{
+		"height": 260.0,
+		"selected_items":
+		[
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"gdb",
+				"SublimeREPL: GDB"
+			],
+			[
+				"clo",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"clj",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"cloj",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"clojure",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"ter",
+				"Open in terminal"
+			],
+			[
+				"pascal",
+				"Set Syntax: Pascal"
+			],
+			[
+				"cl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"sublimerepl sh",
+				"SublimeREPL: Scheme"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"clou",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"re",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"pcki",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Co in",
+				"Package Control: Install Package"
+			],
+			[
+				"pclist",
+				"Package Control: List Packages"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 264.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lijianlin/Projects/MIPS48PipelineCPU/src/code/P6_function.txt",
+		"/Users/lijianlin/Projects/MIPS48PipelineCPU/src/mips_tb.v",
+		"/Users/lijianlin/Projects/MIPS48PipelineCPU/src/CMP.v",
+		"/Users/lijianlin/Projects/MIPS48PipelineCPU/src/ljlin_Mips48.sublime-workspace",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/ALU.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/STALLCTRL.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/IDCTRL.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/mips.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/DM.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/mips_tb.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/PC.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/PLR.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/WBCTRL.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/EXCTRL.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/opcode.h",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/EXT.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/RF.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/LDEXT.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/marco.h",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/MEMCTRL.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/MULTIPLIER.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/log.txt",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/CMP.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/ForwardCTRL.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/DECODE.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/Mips40",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/IM.v",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/testbench.vcd",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/mips48_part_3.txt",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/hazard_beq.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/mips48_part_2.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/mips48_part_1.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/mips48_part_3.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/mips48_part_2.txt",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/code_wkx_1.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/code_wkx_2.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/xdb_1.asm",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/xdb_1.txt",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/CODLABMips48/code/mips48_part_1.txt",
+		"/Users/lijianlin/KUAIPAN/Code/CODLAB/ljlin_Pipline_9/mips.v"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"4.cpp",
+			"",
+			"TElemType",
+			"",
+			"data",
+			"",
+			"src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"begin",
+			"casex",
+			"E",
+			"           ",
+			"FLUSHMUX",
+			"stall",
+			"time",
+			"\\n",
+			"DECODE",
+			"ForwardCTRL",
+			"IDCTRL",
+			"LDEXTOp",
+			"FLush",
+			"idctrl",
+			"DECODE",
+			"clk",
+			"$display",
+			"$",
+			"rst",
+			"clk",
+			"rte",
+			"rtd",
+			"Forwardrs",
+			"Forwardrt",
+			"Forwar",
+			"st",
+			"M",
+			"m",
+			"M",
+			"lui",
+			"stall",
+			"stll",
+			"ctrl",
+			"rf",
+			"rs",
+			",",
+			"int32_t",
+			"sign",
+			"rf",
+			"A3MUX",
+			"lo",
+			"hi",
+			"ALU_out",
+			"4'b0000",
+			"SLL",
+			"mux",
+			"AO_MMUX",
+			"A3MUX",
+			"RS_EMUX",
+			",",
+			"31:0",
+			"Word",
+			",",
+			"out",
+			",",
+			"pcwrite",
+			".",
+			",",
+			".",
+			",",
+			"addr",
+			"im",
+			"dm",
+			"we",
+			"rst",
+			"clk",
+			"addr",
+			"rf",
+			"_mips",
+			"_regfile",
+			"rd1",
+			"wd",
+			"wa",
+			"ra2",
+			"ra1",
+			"out",
+			"aluctrl",
+			"in_1",
+			"in_0",
+			",",
+			"dff",
+			"、",
+			"con",
+			"cont",
+			"pc_ID",
+			"        rd1 = (ra1 != 0)?rf[ra1]:0;\n        rd2 = (ra2 != 0)?rf[ra2]:0;",
+			"pc_ID",
+			"pcsrc_id",
+			"PlusOut_ID",
+			"PCSrc_ID",
+			"PCSrc_EX",
+			"extout_EX",
+			"PlusOut_EX",
+			"PlusOut_MEM",
+			"pc_mux_out",
+			"npc",
+			"pcsrc",
+			"readrf1",
+			"zero",
+			"Branch",
+			"PCSrc",
+			",",
+			"pcsrc",
+			",",
+			"memread",
+			"rd_EX",
+			"rs",
+			"aluout",
+			",",
+			"EX_ID",
+			"control_mux_out",
+			"input",
+			"PCWrite",
+			"MemRead_EX",
+			"rs_",
+			"rs",
+			",",
+			"Rt_ID",
+			"Rs_ID",
+			"ID_EX_M_MemRead",
+			"ID_EX_RegisterRt",
+			"IF_ID_im",
+			"rt_Ex",
+			"regAddr",
+			"rd_EX",
+			"regAddr",
+			"regAddr_WB",
+			"regAddr_MEM"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"i32",
+			"//cout",
+			"I64d",
+			"//cout",
+			"int",
+			"TElemType",
+			"%lld",
+			"long long",
+			"ans()",
+			"//cout",
+			"data",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DECODE.v",
+					"settings":
+					{
+						"buffer_size": 3259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Verilog/Verilog.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ljlin_Mips48.sublime-project",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 331.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"func",
+				"code/P6_function.txt"
+			],
+			[
+				"tb",
+				"mips_tb.v"
+			],
+			[
+				"dm",
+				"DM.v"
+			],
+			[
+				"alu",
+				"ALU.v"
+			],
+			[
+				"ctrl",
+				"IDCTRL.v"
+			],
+			[
+				"mips",
+				"mips.v"
+			],
+			[
+				"deco",
+				"DECODE.v"
+			],
+			[
+				"f",
+				"ForwardCTRL.v"
+			],
+			[
+				"",
+				"STALLCTRL.v"
+			],
+			[
+				"mip",
+				"mips.v"
+			],
+			[
+				"stal",
+				"STALLCTRL.v"
+			],
+			[
+				"cmp",
+				"CMP.v"
+			],
+			[
+				"log",
+				"log.txt"
+			],
+			[
+				"forw",
+				"ForwardCTRL.v"
+			],
+			[
+				"mipst",
+				"mips_tb.v"
+			],
+			[
+				"mar",
+				"marco.h"
+			],
+			[
+				"ope",
+				"opcode.h"
+			],
+			[
+				"ext",
+				"EXT.v"
+			],
+			[
+				"lde",
+				"LDEXT.v"
+			],
+			[
+				"forwar",
+				"ForwardCTRL.v"
+			],
+			[
+				"cm",
+				"CMP.v"
+			],
+			[
+				"rf",
+				"RF.v"
+			],
+			[
+				"worl",
+				"WorldModel.cpp"
+			],
+			[
+				"player",
+				"PlayerTeams.cpp"
+			],
+			[
+				"coach",
+				"BasicCoach.h"
+			],
+			[
+				"tea",
+				"PlayerTeams.cpp"
+			],
+			[
+				"gen",
+				"FFF/graph/genrate.cpp"
+			],
+			[
+				"day3",
+				"day3/genrate"
+			],
+			[
+				"d",
+				"graph/D.cpp"
+			],
+			[
+				"info",
+				"day1/D.dSYM/Contents/Info.plist"
+			],
+			[
+				"h.",
+				"FFF/day3/H.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/lijianlin/KUAIPAN/Code/CODLAB/counter/counter.sublime-project"
+			]
+		],
+		"width": 633.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
