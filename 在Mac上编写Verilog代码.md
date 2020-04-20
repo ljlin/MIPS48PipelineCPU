@@ -43,7 +43,7 @@
 	ftp://icarus.com/pub/eda/verilog/v0.9/verilog-0.9.7.tar.gz
 	```
 	
-- Homebrew放置软件包源码的路径为*/Library/Caches/Homebrew/*，只要你将所需要的软件包下载正确的版本，放置在此目录下，那么再使用`brew install  icarus-verilog`的时候, brew 就能直接安装了，注意软件包的命名，一般是*name-version.suffix*,参考以下下命令：
+- Homebrew放置软件包源码的路径为`/Library/Caches/Homebrew/`，只要你将所需要的软件包下载正确的版本，放置在此目录下，那么再使用`brew install  icarus-verilog`的时候, brew 就能直接安装了，注意软件包的命名，一般是`name-version.suffix`,参考以下下命令：
 	 
 	```
 	cp ~/Desktop/verilog-0.9.7.tar.gz /Library/Caches/Homebrew/icarus-verilog-0.9.7.tar.gz
@@ -77,13 +77,13 @@
 	iverilog -o example_3_1.vvp example_3_1_tb.v
 	```
 - 成功编译后可以看到生成了example_3_1.vvp文件，你可以在 Finder 中查看，也可以使用命令：
-	> 
+	
 	```
 	ls
 	```
 	
-	>可以看到输出
-	> 
+	可以看到输出
+	
 	```
 	example_3_1.v    example_3_1_tb.v
 	example_3_4_tb.v example_3_5_tb.v
@@ -91,17 +91,17 @@
 	example_3_5.v
 	```
 - 现在就可以运行了，使用命令：
-	>
+	
 	```
 	vvp example_3_1.vvp
 	```
-	>或者直接运行可执行文件example_3_1.vvp（其实是脚本文件，vvp 文件内容第一行指明了使用 vpp 解释）。
-	>
+	或者直接运行可执行文件example_3_1.vvp（其实是脚本文件，vvp 文件内容第一行指明了使用 vpp 解释）。
+	
 	```
 	./example_3_1.vvp
 	```
-	>然后得到输出：
-	>
+	然后得到输出：
+	
 	```
 	VCD info: dumpfile example_3_1.vcd opened for output.
 	done testing case           0
